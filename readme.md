@@ -7,7 +7,7 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 # Clients
 
 # Projects
-
+_Italic projects_.
 
 # Resources
 
