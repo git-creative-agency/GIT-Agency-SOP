@@ -9,6 +9,7 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 The way we work with clients. Awesome.
 
 # Projects
+These are our projects, yay!
 
 # Resources
 
