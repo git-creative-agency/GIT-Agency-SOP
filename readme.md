@@ -6,13 +6,12 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 
 # Clients
 
-The way we work with clients. Awesome.
-
 # Projects
-These are our projects, yay! 
-Let's work on some projects together!
+
 
 # Resources
+
+This section is for our resources.
 
 # Operations
 
