@@ -10,6 +10,7 @@ The way we work with clients. Awesome.
 
 # Projects
 These are our projects, yay!
+We will get them done well.
 
 # Resources
 
