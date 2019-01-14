@@ -12,6 +12,6 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 
 # Operations
 
-## Communication With Agency
+## Communication Within Agency Members
 
 We will use Slack as our principal communication tool. Don't use email when a Slack message will do.
