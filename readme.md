@@ -7,7 +7,8 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 # Clients
 
 # Projects
-_Italic projects_.
+GIT _The Scoop_ Newsletter.
+GIT Program Social Media & Branding
 
 # Resources
 
