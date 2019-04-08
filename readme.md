@@ -11,6 +11,9 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 # Projects
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 31930831646e5c0df71bff0d6e35893c43046bd6
 
 ## Ongoing & Recurring Projects
 
@@ -25,6 +28,7 @@ Give it a codename.
 ## When Projects End
 
 Check it off.
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 919781db1567c6d8c76ebd098a95906f07042816
@@ -94,6 +98,8 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 
 GIT Program Social Media & Branding
 >>>>>>> 919781db1567c6d8c76ebd098a95906f07042816
+=======
+>>>>>>> 31930831646e5c0df71bff0d6e35893c43046bd6
 
 # Resources
 
