@@ -80,6 +80,16 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 ## GIT Program Social Media 
 ## GIT Program Branding
 
+## Projects and Meetings (notes from 4-8-2019)
+
+* Do not show your client work that has not been seen by your supervisor.
+* Do not use Illustrator for text, use InDesign.
+* Keep file naming and storage in in check
+* Communication, constant updates
+
+
+
+
 ## When Projects Begin
 
 Give it a codename.
@@ -100,6 +110,7 @@ In time, we plan to build a Resources page on the web, perhaps based on skullfac
 ## How We Work on Projects
 
 ### File Management Structure
+* pdf's and anything that is in preparation should be in "Review" folder
 
 ### File Naming
 
@@ -112,7 +123,7 @@ Organise our files as we organise our thinking.
 	2. Client name
 	3. Project name
 	4. Stage
-	5. Date
+	5. Date (YYYYMMDD format)
 	6. Modification, if any
 
 3. Use the date convention YYYYMMDD, where dates get a leading zero
