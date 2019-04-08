@@ -12,6 +12,7 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 31930831646e5c0df71bff0d6e35893c43046bd6
 
@@ -32,6 +33,11 @@ Check it off.
 =======
 =======
 >>>>>>> 919781db1567c6d8c76ebd098a95906f07042816
+=======
+
+## Ongoing & Recurring Projects
+
+>>>>>>> 4809b2e0aa64a1d2570cc98b7d2187ca9e61972e
 ## GIT _The Scoop_ Newsletter.
 ### Content
 The Scoop newsletter is organized in the following order:
@@ -95,11 +101,24 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 
 
 
+## GIT Program Social Media & Branding
 
+<<<<<<< HEAD
 GIT Program Social Media & Branding
 >>>>>>> 919781db1567c6d8c76ebd098a95906f07042816
 =======
 >>>>>>> 31930831646e5c0df71bff0d6e35893c43046bd6
+=======
+## GIT Program Social Media 
+## GIT Program Branding
+
+## When Projects Begin
+
+Give it a codename.
+
+## When Projects End
+
+>>>>>>> 4809b2e0aa64a1d2570cc98b7d2187ca9e61972e
 
 # Resources
 
