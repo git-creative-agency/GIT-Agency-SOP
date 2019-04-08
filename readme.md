@@ -103,13 +103,8 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 
 ## GIT Program Social Media & Branding
 
-<<<<<<< HEAD
-GIT Program Social Media & Branding
->>>>>>> 919781db1567c6d8c76ebd098a95906f07042816
-=======
->>>>>>> 31930831646e5c0df71bff0d6e35893c43046bd6
-=======
 ## GIT Program Social Media 
+
 ## GIT Program Branding
 
 ## When Projects Begin
@@ -117,8 +112,6 @@ GIT Program Social Media & Branding
 Give it a codename.
 
 ## When Projects End
-
->>>>>>> 4809b2e0aa64a1d2570cc98b7d2187ca9e61972e
 
 # Resources
 
@@ -167,6 +160,12 @@ Organise our files as we organise our thinking.
 4. For export files, save as a common format, and where possible an open-source format. Images should become hi-res `.jpg` or `.tif`, vector art will become `.eps`, and layouts will be exported as `.pdf`. 
 5. For simple documents, such as this readme, use `.md` or `.txt`. Do not "complicate" a text file by elevating it to Google Docs.
 
-## Communication Within Agency Members
+## How We Communicate Within Agency Members
 
 We will use Slack as our principal communication tool. Don't use email when a Slack message will do.
+
+## How We Document Our Work
+
+## How We Recruit
+
+## How We Track Our Time
