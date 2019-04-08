@@ -48,7 +48,7 @@ Trello is used to organize newsletter content every week.
 
 ### Scheduling
 MailChimp is used to schedule the newsletter. Login information can be found in Government Secrets and The Scoop How-To presentation.
-* Create a new EMAIL campaign in MailChimp with title "YYYYMMDDnewsletter'" (example: 20190216newsletter)
+* Create a new EMAIL campaign in MailChimp with title "theScoop-YYYYMMDD-mainTopic" where The name *The Scoop* is followed by the date, and amended with a simple note about the main hero image or theme of that issue (example: theScoop-20190216-AdobeJam)
 * Set up the following for the email:
 * "To" select GIT students
     * MailChimp will automatically complete "From" and "Subject" sections.
