@@ -6,9 +6,23 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 
 # Clients
 
+## Recurring Clients
+
 # Projects
+
+## Ongoing & Recurring Projects
+
 GIT _The Scoop_ Newsletter.
-GIT Program Social Media & Branding
+GIT Program Social Media 
+GIT Program Branding
+
+## When Projects Begin
+
+Give it a codename.
+
+## When Projects End
+
+Check it off.
 
 # Resources
 
@@ -19,6 +33,43 @@ It is encouraged for every member of the Agency to continually add to the Resour
 In time, we plan to build a Resources page on the web, perhaps based on skullface's [design resources project](https://github.com/skullface/design-resources) on GitHub. That, ideally, would leverage more articles, web tools, and book listings — an industry-related directory, rather than a bucket of files for the daily grind.
 
 # Operations
+
+## How We Work on Projects
+
+### File Management Structure
+
+### File Naming
+
+Organise our files as we organise our thinking.
+
+1. Use as few files as possible.
+
+2. Name files sequentially according to the project hierarchy
+	1. Project no.
+	2. Client name
+	3. Project name
+	4. Stage
+	5. Date
+	6. Modification, if any
+
+3. Use the date convention YYYYMMDD, where dates get a leading zero
+
+4. Use the time convention HHMM, where we use 24-hour time and leading zeroes.
+
+5. Use hyphens, not underscores.
+
+6. Do not use initials or names of individuals.
+
+7. Never, never, never use "final" anywhere in a file name.
+
+### File Types
+
+1. The GIT Creative Agency is an Adobe studio. We default to the Adobe Creative Cloud and the main tool within it for the job. 
+2. Avoid Microsoft Office as a whole. Instead of Word, use Google Docs. Instead of Excel, use Google Sheets. Instead of Powerpoint, use InDesign (and eventually export as PDF).
+	_Only use Google Slides or Keynote for presentations where it is *essential* to import video, audio, animated gifs, or other complex elements. Otherwise, prefer a simple PDF slideshow._
+3. For working files, retain the original, layered file as long as possible. This means saving Photoshop (`.psd`), Illustrator (`.ai`), InDesign (`.indd`), Premiere (`.prproj`), and other proprietary formats from our main design software tools.
+4. For export files, save as a common format, and where possible an open-source format. Images should become hi-res `.jpg` or `.tif`, vector art will become `.eps`, and layouts will be exported as `.pdf`. 
+5. For simple documents, such as this readme, use `.md` or `.txt`. Do not "complicate" a text file by elevating it to Google Docs.
 
 ## Communication Within Agency Members
 
