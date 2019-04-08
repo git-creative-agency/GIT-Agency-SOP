@@ -10,6 +10,7 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 
 # Projects
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## Ongoing & Recurring Projects
 
@@ -25,6 +26,8 @@ Give it a codename.
 
 Check it off.
 =======
+=======
+>>>>>>> 919781db1567c6d8c76ebd098a95906f07042816
 ## GIT _The Scoop_ Newsletter.
 ### Content
 The Scoop newsletter is organized in the following order:
