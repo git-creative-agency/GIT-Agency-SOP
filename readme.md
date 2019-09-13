@@ -99,7 +99,7 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 
 ## When Projects Begin
 
-Give it a codename.
+Give it a codename. 
 
 ## When Projects End
 
@@ -131,6 +131,7 @@ Organise our files as we organise our thinking.
 	3. Project name
 	4. Stage
 	5. Date (YYYYMMDD format)
+	6. Time (HH:MM (24-hr)) if needeed
 	6. Modification, if any
 
 3. Use the date convention YYYYMMDD, where dates get a leading zero
