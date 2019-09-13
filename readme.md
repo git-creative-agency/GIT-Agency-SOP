@@ -116,7 +116,7 @@ In time, we plan to build a Resources page on the web, perhaps based on skullfac
 
 Organise our files as we organise our thinking.
 
-1. Use as few files as possible.
+1. Use as few files as possible. Within those files, as few pages as possible. Within those pagesd, as few layers as possible, as few items as possible, as few styles as possible. Keep it lean.
 
 2. Name files sequentially according to the project hierarchy
 	1. Project no.
