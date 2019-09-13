@@ -6,6 +6,8 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 
 # Clients
 
+Yes, we have them.
+
 ## Recurring Clients
 
 # Projects
