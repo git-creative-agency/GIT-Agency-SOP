@@ -55,7 +55,7 @@ Trello is used to organize newsletter content every week.
     
 
 ### Coding
-
+We will be using GitHub.
 
 ### Scheduling
 MailChimp is used to schedule the newsletter. Login information can be found in Government Secrets and The Scoop How-To presentation.
