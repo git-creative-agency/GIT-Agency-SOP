@@ -78,8 +78,9 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 ## GIT Program Social Media & Branding
 
 ## GIT Program Social Media 
-Draw consistency among the different social media accounts with icons, emails, and bios.
 ## GIT Program Branding
+
+Branding currently being updated under project name "Vampire"
 
 ## Projects and Meetings (notes from 4-8-2019)
 
@@ -109,6 +110,8 @@ In time, we plan to build a Resources page on the web, perhaps based on skullfac
 # Operations
 
 ## How We Work on Projects
+
+All files must be uploaded to the team drive and named with the proper naming convention. Be prepared to have a project update each class. 
 
 ### File Management Structure
 * pdf's and anything that is in preparation should be in "Review" folder
