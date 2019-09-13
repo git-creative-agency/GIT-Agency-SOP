@@ -44,6 +44,7 @@ Trello is used to organize newsletter content every week.
     
 
 ### Coding
+We will be using GitHub for coding projects.
 
 
 ### Scheduling
