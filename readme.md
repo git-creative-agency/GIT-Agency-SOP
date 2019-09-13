@@ -116,6 +116,8 @@ In time, we plan to build a Resources page on the web, perhaps based on skullfac
 
 ## How We Work on Projects
 
+All files must be uploaded to the team drive and named with the proper naming convention. Be prepared to have a project update each class. 
+
 ### File Management Structure
 * pdf's and anything that is in preparation should be in "Review" folder
 
@@ -156,3 +158,5 @@ Organise our files as we organise our thinking.
 ## Communication Within Agency Members
 
 We will use Slack as our principal communication tool. Don't use email when a Slack message will do.
+
+.
