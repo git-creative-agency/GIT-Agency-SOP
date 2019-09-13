@@ -80,8 +80,6 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 ## GIT Program Social Media 
 ## GIT Program Branding
 
-Branding currently being updated under project name "Vampire"
-
 ## Projects and Meetings (notes from 4-8-2019)
 
 * Do not show your client work that has not been seen by your supervisor.
@@ -152,3 +150,5 @@ Organise our files as we organise our thinking.
 ## Communication Within Agency Members
 
 We will use Slack as our principal communication tool. Don't use email when a Slack message will do.
+
+.
