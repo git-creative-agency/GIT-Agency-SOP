@@ -12,6 +12,8 @@ Yes, we have them.
 
 # Projects
 
+Projects will be named with a unique code of numbers and letters. 
+
 ## Ongoing & Recurring Projects
 
 ## GIT _The Scoop_ Newsletter.
@@ -104,8 +106,6 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 Give it a codename. 
 
 ## When Projects End
-
-It is presented to a client.
 
 
 # Resources
