@@ -6,6 +6,8 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 
 # Clients
 
+Yes, we have them.
+
 ## Recurring Clients
 
 # Projects
@@ -86,6 +88,7 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 
 ## GIT Program Social Media 
 ## GIT Program Branding
+* Follow the GIT brand guide.
 
 ## Projects and Meetings (notes from 4-8-2019)
 
