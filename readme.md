@@ -87,6 +87,9 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 ## GIT Program Social Media & Branding
 
 ## GIT Program Social Media 
+
+Make the social media accounts consistent.
+
 ## GIT Program Branding
 
 ## Projects and Meetings (notes from 4-8-2019)
