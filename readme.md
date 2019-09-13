@@ -44,7 +44,6 @@ Trello is used to organize newsletter content every week.
     
 
 ### Coding
-We will be using GitHub for coding projects.
 
 
 ### Scheduling
@@ -79,6 +78,9 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 ## GIT Program Social Media & Branding
 
 ## GIT Program Social Media 
+
+We use [Edgar](http://meetEdgar.com "Edgar") to manage social media publishing.
+
 ## GIT Program Branding
 
 ## Projects and Meetings (notes from 4-8-2019)
