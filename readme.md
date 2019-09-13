@@ -12,8 +12,6 @@ Yes, we have them.
 
 # Projects
 
-Projects will be named with a unique code of numbers and letters. 
-
 ## Ongoing & Recurring Projects
 
 ## GIT _The Scoop_ Newsletter.
@@ -55,7 +53,7 @@ Trello is used to organize newsletter content every week.
     
 
 ### Coding
-We will be using GitHub.
+
 
 ### Scheduling
 MailChimp is used to schedule the newsletter. Login information can be found in Government Secrets and The Scoop How-To presentation.
@@ -90,6 +88,7 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 
 ## GIT Program Social Media 
 ## GIT Program Branding
+* Follow the GIT brand guide.
 
 ## Projects and Meetings (notes from 4-8-2019)
 
