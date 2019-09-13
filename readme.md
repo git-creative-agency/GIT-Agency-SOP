@@ -13,6 +13,13 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 ## Ongoing & Recurring Projects
 
 ## GIT _The Scoop_ Newsletter.
+
+*The Scoop* requires three main efforts:
+
+1. Content
+2. Code/Design
+3. Scheduling & Publish
+
 ### Content
 The Scoop newsletter is organized in the following order:
 * Hero
