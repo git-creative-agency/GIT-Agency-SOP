@@ -85,11 +85,22 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 
 
 ## GIT Program Social Media & Branding
-
 ## GIT Program Social Media 
+The goal of the GIT social media is to keep GIT students up to date on events, involved, and informed. Additionally, it is also a way to reach out to future students to offer guideance and access to the community. It is also an outlet to share and celebrate our GIT Student's work.
+Our current GIT Program accounts are:
+* Facebook 
+* Instagram
+* Twitter
+* YouTube
+* Behance
+Our tonal goal for the GIT Program social media is to engage in a casual way, but remain professional with our content. 
+When to post content:
+* Facebook - 9AM, 12PM, 4PM
+* Instagram - Weekdays 12PM - 5PM
+
 ## GIT Program Branding
 * Follow the GIT brand guide.
-
+## GIT Agency Social Media
 ## Projects and Meetings (notes from 4-8-2019)
 
 * Do not show your client work that has not been seen by your supervisor.
