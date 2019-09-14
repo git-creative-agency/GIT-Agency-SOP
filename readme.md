@@ -93,7 +93,9 @@ Our current GIT Program accounts are:
 * Twitter
 * YouTube
 * Behance
+
 Our tonal goal for the GIT Program social media is to engage in a casual way, but remain professional with our content. 
+
 When to post content:
 * Facebook - 9AM, 12PM, 4PM
 * Instagram - Weekdays 12PM - 5PM
