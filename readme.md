@@ -86,23 +86,37 @@ Back in the campaign under "Content", click Design Email->Code Your Own
 
 ## GIT Program Social Media & Branding
 ## GIT Program Social Media 
-The goal of the GIT social media is to keep GIT students up to date on events, involved, and informed. Additionally, it is also a way to reach out to future students to offer guideance and access to the community. It is also an outlet to share and celebrate our GIT Student's work.
-Our current GIT Program accounts are:
-* Facebook 
-* Instagram
-* Twitter
-* YouTube
-* Behance
+GIT SOCIAL MEDIA
+GOAL: The goal of the GIT social media is to keep GIT students up to date on events, involved, and informed. Additionally, it is also a way to reach out to future students to offer guidance and access to the community. It is also an outlet to share and celebrate our GIT Student's work. Our tonal goal for the GIT Program social media is to engage in a casual way, but remain professional with our content. Post goal is twice a week for each platform.
+WHEN TO POST:
+Facebook: 9AM - 2PM
+	Worst day: Sunday
+Instagram: Wednesday at 11 a.m. and Friday at 10–11 a.m
+	Worst day: Sunday
+Twitter: Wednesday at 9 a.m. and Friday at 9 a.m
+	Worst day: Saturday
+For more detailed information on posting times: https://sproutsocial.com/insights/best-times-to-post-on-social-media/
 
-Our tonal goal for the GIT Program social media is to engage in a casual way, but remain professional with our content. 
-
-When to post content:
-* Facebook - 9AM, 12PM, 4PM
-* Instagram - Weekdays 12PM - 5PM
+ACCOUNTS:
+Facebook: ASU GIT or @asugitpoly
+Instagram: asu.git
+Twitter: @asugit
+See Google Drive or Notion page for a more detailed list & passwords 
 
 ## GIT Program Branding
 * Follow the GIT brand guide.
 ## GIT Agency Social Media
+GOAL: The goal for the Agency specific accounts is similar to the GIT program social media, but we will approach with a more casual and individualistic tone. The social media for the agency should focus on the agency itself. This can include agency projects, events, agency member work, or helpful links and/or agency “recommended” resources. 
+
+WHEN TO POST: 
+When to post on different social media accounts is the same as the GIT Program data but with more leniency because of the more casual tone. 
+
+ACCOUNTS:
+Facebook: GIT Creative Agency or @gitcreativeagency
+Instagram: gitcreativeagency
+Twitter: @GITagency
+See Google Drive or Notion page for a more detailed list & passwords 
+
 ## Projects and Meetings (notes from 4-8-2019)
 
 * Do not show your client work that has not been seen by your supervisor.
