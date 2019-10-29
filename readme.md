@@ -146,16 +146,23 @@ In time, we plan to build a Resources page on the web, perhaps based on skullfac
 
 ## How We Work on Projects
 
-All files must be uploaded to the team drive and named with the proper naming convention. Be prepared to have a project update each class. 
+Be prepared to have a project update each class. 
 
 ### File Management Structure
-* pdf's and anything that is in preparation should be in "Review" folder
+
+The overarching premise is simple: At all times, all files must be available to all Agency members. This means working _only_ on the shared drive — currently Google Drive — using a local+cloud sync effort, in this case Google Drive File Stream desktop app for Mac and Windows. 
+
+All files must be uploaded to the team drive and named with the proper naming convention. Everything will be stored in an intuitive way such that any other team member can find any file, and where needed, continue work.
+
+* Files that have not been presented to a client should be considered "Concepts", and can move to "Refinements" after some decision is made. Still plenty of work to do after this designation switch.
+* PDFs and anything that is in preparation should be in "Review" folder
+ 
 
 ### File Naming
 
 Organise our files as we organise our thinking.
 
-1. Use as few files as possible. Within those files, as few pages as possible. Within those pagesd, as few layers as possible, as few items as possible, as few styles as possible. Keep it lean.
+1. Use as few files as possible. Within those files, as few pages as possible. Within those pages, as few layers as possible, as few items as possible, as few styles as possible. Keep it lean.
 
 2. Name files sequentially according to the project hierarchy
 	1. Project no.
@@ -172,13 +179,13 @@ Organise our files as we organise our thinking.
 
 5. Use hyphens, not underscores.
 
-6. Do not use initials or names of individuals.
+6. Do not use initials or names of individuals. The date of a file's update is more important than the person who created it.
 
 7. Never, never, never use "final" anywhere in a file name.
 
 ### File Types
 
-1. The GIT Creative Agency is an Adobe studio. We default to the Adobe Creative Cloud and the main tool within it for the job. 
+1. The GIT Creative Agency is an Adobe studio. We default to the Adobe Creative Cloud and the main tools within it for the job. 
 2. Avoid Microsoft Office as a whole. Instead of Word, use Google Docs. Instead of Excel, use Google Sheets. Instead of Powerpoint, use InDesign (and eventually export as PDF).
 	_Only use Google Slides or Keynote for presentations where it is *essential* to import video, audio, animated gifs, or other complex elements. Otherwise, prefer a simple PDF slideshow._
 3. For working files, retain the original, layered file as long as possible. This means saving Photoshop (`.psd`), Illustrator (`.ai`), InDesign (`.indd`), Premiere (`.prproj`), and other proprietary formats from our main design software tools.
