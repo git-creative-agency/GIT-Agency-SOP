@@ -168,10 +168,10 @@ Organise our files as we organise our thinking.
 	1. Project no.
 	2. Client name
 	3. Project name
-	4. Stage
+	4. Stage/Phase
 	5. Date (YYYYMMDD format)
 	6. Time (HH:MM (24-hr)) if needeed
-	6. Modification, if any
+	7. Modification, if any
 
 3. Use the date convention YYYYMMDD, where dates get a leading zero
 
@@ -181,7 +181,9 @@ Organise our files as we organise our thinking.
 
 6. Do not use initials or names of individuals. The date of a file's update is more important than the person who created it.
 
-7. Never, never, never use "final" anywhere in a file name.
+7. Never, never, never use "final" anywhere in a file name. 
+
+When exporting files to press or handing off to clients, we can rename files to be more human-readible. Third parties will often have their own naming scheme, so we shouldn't force them to use ours and risk adding confusion.
 
 ### File Types
 
