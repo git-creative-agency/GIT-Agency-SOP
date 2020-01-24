@@ -162,7 +162,7 @@ All files must be uploaded to the team drive and named with the proper naming co
 
 Organise our files as we organise our thinking.
 
-1. Use as few files as possible. Within those files, as few pages as possible. Within those pages, as few layers as possible, as few items as possible, as few styles as possible. Keep it lean. 
+1. Use as few files as possible. Within those files, as few pages as possible. Within those pages, as few layers as possible, as few items as possible, as few styles as possible. Keep it lean.
 
 2. Name files sequentially according to the project hierarchy
 	1. Project no.
@@ -183,12 +183,10 @@ Organise our files as we organise our thinking.
 
 7. Never, never, never use "final" anywhere in a file name.
 
-8. Make sure to name all your layers.
-
 ### File Types
 
 1. The GIT Creative Agency is an Adobe studio. We default to the Adobe Creative Cloud and the main tools within it for the job. 
-2. Avoid Microsoft Office as a whole. Instead of Word, use Google Docs. Instead of Excel, use Google Sheets. Instead of Powerpoint, use InDesign (and eventually export as PDF).
+2. Avoid Microsoft Office as a whole. Instead of Word, use Google Docs. Instead of Excel, use Google Sheets. Instead of Powerpoint, use InDesign (and eventually export as PDF). However, GIT awards uses powerpoint. 
 	_Only use Google Slides or Keynote for presentations where it is *essential* to import video, audio, animated gifs, or other complex elements. Otherwise, prefer a simple PDF slideshow._
 3. For working files, retain the original, layered file as long as possible. This means saving Photoshop (`.psd`), Illustrator (`.ai`), InDesign (`.indd`), Premiere (`.prproj`), and other proprietary formats from our main design software tools.
 4. For export files, save as a common format, and where possible an open-source format. Images should become hi-res `.jpg` or `.tif`, vector art will become `.eps`, and layouts will be exported as `.pdf`. 
