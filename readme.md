@@ -162,16 +162,16 @@ All files must be uploaded to the team drive and named with the proper naming co
 
 Organise our files as we organise our thinking.
 
-1. Use as few files as possible. Within those files, as few pages as possible. Within those pages, as few layers as possible, as few items as possible, as few styles as possible. Keep it lean.
+1. Use as few files as possible. Within those files, as few pages as possible. Within those pages, as few layers as possible, as few items as possible, as few styles as possible. Keep it lean. 
 
 2. Name files sequentially according to the project hierarchy
 	1. Project no.
 	2. Client name
 	3. Project name
-	4. Stage/Phase
+	4. Stage
 	5. Date (YYYYMMDD format)
 	6. Time (HH:MM (24-hr)) if needeed
-	7. Modification, if any
+	6. Modification, if any
 
 3. Use the date convention YYYYMMDD, where dates get a leading zero
 
@@ -181,9 +181,9 @@ Organise our files as we organise our thinking.
 
 6. Do not use initials or names of individuals. The date of a file's update is more important than the person who created it.
 
-7. Never, never, never use "final" anywhere in a file name. 
+7. Never, never, never use "final" anywhere in a file name.
 
-When exporting files to press or handing off to clients, we can rename files to be more human-readible. Third parties will often have their own naming scheme, so we shouldn't force them to use ours and risk adding confusion.
+8. Make sure to name all your layers.
 
 ### File Types
 
