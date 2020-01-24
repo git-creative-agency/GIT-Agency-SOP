@@ -169,6 +169,9 @@ Organise our files as we organise our thinking.
 	2. Client name
 	3. Project name
 	4. Stage
+		1. Sketches
+		2. Concepts
+		3. Refinements
 	5. Date (YYYYMMDD format)
 	6. Time (HH:MM (24-hr)) if needeed
 	6. Modification, if any
