@@ -19,8 +19,8 @@ Yes, we have them.
 *The Scoop* requires three main efforts:
 
 1. Content
-2. Code/Design
-3. Scheduling & Publish
+1. Code/Design
+1. Scheduling & Publish
 
 ### Content
 The Scoop newsletter is organized in the following order:
@@ -197,3 +197,7 @@ Organise our files as we organise our thinking.
 We will use Slack as our principal communication tool. Don't use email when a Slack message will do.
 
 .
+```
+<a target="_blank" href="https://www.perezfox.com">
+[embed]239301[/embed]</a>
+```
