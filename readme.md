@@ -30,6 +30,7 @@ The Scoop newsletter is organized in the following order:
     * Internships
     * Part-Time
     * Full-Time
+    * Contract Work (temporary)
 * Scholarships
 * Student Resources
 * Announcements
