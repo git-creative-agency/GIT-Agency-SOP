@@ -8,7 +8,7 @@ _Standard Operating Procedures for the Graphic Information Technology Creative A
 
 Yes, we have them.
 
-## Recurring Clients
+## Resurrecting Clients
 
 # Projects
 
