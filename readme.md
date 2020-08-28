@@ -147,7 +147,7 @@ In time, we plan to build a Resources page on the web, perhaps based on skullfac
 
 ## How We Work on Projects
 
-Be prepared to have a project update each class. 
+Make sure to have a project update before each class. 
 
 ### File Management Structure
 
