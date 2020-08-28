@@ -207,7 +207,7 @@ We will use Slack as our principal communication tool. Don't use email when a Sl
 _We have several channels within the [GIT Program Slack workspace](http://git-asu.slack.com/ "GIT Program Slack workspace") (hosted on ASU's Enterprise Grid). They are listed and described below:_
 
 * #agency-daily
-*
+* #agency-projects
 
 ```
 <a target="_blank" href="https://www.perezfox.com">
